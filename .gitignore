@@ -1,0 +1,6 @@
+# Version Python copies of notebooks
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
+*.log
